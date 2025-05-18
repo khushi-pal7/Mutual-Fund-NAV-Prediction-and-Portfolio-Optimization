@@ -8,4 +8,4 @@ Mutual Fund NAV Prediction and Portfolio Optimization A deep learning-based fram
 
 ## ⚙️ Technologies Used
 - Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy
-- Jupyter Notebook (Kaggle for GPU acceleration)
+- Kaggle for GPU acceleration.
